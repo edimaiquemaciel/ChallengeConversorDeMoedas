@@ -73,8 +73,9 @@ Se você não estiver utilizando Maven ou Gradle, pode baixar o arquivo JAR da b
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/conversor-moedas.git
-    cd conversor-moedas
+    git clone https://github.com/edimaiquemaciel/ChallengeConversorDeMoedas.git
+    cd ChallengeConversorDeMoedas
+
     ```
 
 2. Instale as dependências:
